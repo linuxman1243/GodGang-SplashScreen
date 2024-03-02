@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment=GodGang
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=GodGang
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=linuxman1243
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=GodGang
+X-KDE-PluginInfo-Version=0.1
+X-Plasma-MainScript=defaults
+
